@@ -1,0 +1,133 @@
+EXTM3U
+
+
+#EXTINF:-1 ,Teleantillas Canal 2
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w2079720348.m3u8
+
+#EXTINF:-1 ,Tv Plata Canal 3
+https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1090009437.m3u8
+
+#EXTINF:-1 ,Certv Canal 4
+http://51.89.152.28:8084/hls/certv.m3u8
+
+#EXTINF:-1 ,Telemicro Canal 5
+http://51.81.93.29:8084/hls/tmicro.m3u8
+
+#EXTINF:-1 ,Antena Latina Canal 7
+http://51.89.152.28:8084/hls/alatina.m3u8
+
+#EXTINF:-1 ,Peravia Vision Canal 8 Bani
+https://ss6.domint.net:3002/pvv_str/peravia/chunklist_w1474521638.m3u8
+
+#EXTINF:-1 ,Color Vision Canal 9
+http://51.81.106.147:8084/hls/color.m3u8
+
+#EXTINF:-1 ,Yuna Vision Canal 10
+https://ss4.domint.net:3004/yv_str/yunavision/chunklist_w1574490.m3u8
+
+#EXTINF:-1 ,TELESISTEMA 11
+https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w100081367.m3u8
+
+#EXTINF:-1 ,Telecentro Canal 13
+http://51.89.152.28:8084/hls/tcentro.m3u8
+
+#EXTINF:-1 ,Digital 15
+http://51.81.93.29:8084/hls/d15.m3u8
+
+#EXTINF:-1 ,Cinevision Canal 19
+https://rctvhdstream.com:8081/cinevision19hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,ANTENA 21
+http://51.89.152.28:8084/hls/a21.m3u8
+
+#EXTINF:-1 ,Canal 25 Santiago
+https://ss5.domint.net:3050/c25_str/canal25/chunklist_w517047345.m3u8
+
+#EXTINF:-1 ,RNN Canal 27
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w2037244683.m3u8
+
+#EXTINF:-1 ,Teleuniverso Canal 29
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+
+#EXTINF:-1 ,Coral 39
+http://190.122.96.188:8888/http/005
+
+#EXTINF:-1 ,ROMANA TV CANAL 42
+http://live.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 ,TVO CANAL 49
+https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,CDN DEPORTES
+http://51.89.152.28:8084/hls/cdnsm.m3u8
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
